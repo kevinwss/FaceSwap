@@ -1,3 +1,3 @@
 # FaceSwap
 
- swapping someone’s face before camera with another face in a picture by GAN
+ Swapping someone’s face before camera with another face in a picture by GAN
